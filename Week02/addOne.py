@@ -5,7 +5,7 @@
 
 number = int(input('Enter Number'))
 # This asks the user to input a number, hence INPUT. However, we must convert this to an integer
-# so that it can be added below.pyth
+# so that it can be added below as this would not work if it remained as a string (this would be like trying to add alpha to numeric)
 
 newNumber = number + 1
 # This defines that the output will be the original number +1
