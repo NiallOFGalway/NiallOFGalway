@@ -1,4 +1,4 @@
-# Question6.py
+# Lab3.1.6-Question6.py
 # Author: Niall O Flaherty
 # QUESTION FROM LAB: Why does this expression cause an error? How can you fix it? 
 

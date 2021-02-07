@@ -1,10 +1,10 @@
-# randomFruit2.py
+# Lab3.1.5-randomFruit.py
 # Author: Niall O Flaherty
 # This program outputs a random fruit
 
 import random
 
-fruits = ('Apple', 'Banana', 'Mango', 'Pear')
+fruits = ['Apple', 'Banana', 'Mango', 'Pear']
 
 index = random.randint(0,len(fruits)-1)
 

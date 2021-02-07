@@ -1,4 +1,4 @@
-# randomGenerator.py
+# Lab3.1.4-randomGenerator.py
 # Author: Niall O Flaherty
 # This program prints out a random number between 1 and 10
 

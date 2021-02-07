@@ -1,4 +1,4 @@
-# sub.py
+# Lab3.1.2-sub.py
 # Author: Niall O Flaherty
 # This program asks you to input 2 numbers and subtracts the 2nd number from the 1st
 

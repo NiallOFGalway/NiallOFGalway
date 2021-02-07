@@ -1,4 +1,4 @@
-# Question7.py
+# Lab3.1.7-Question7.py
 # Author: Niall O Flaherty  
 
 # QUESTION: Why is eggs a valid variable name while 100 is invalid?

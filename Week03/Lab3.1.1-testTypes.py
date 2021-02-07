@@ -1,4 +1,4 @@
-# testTypes.py
+# Lab3.1.1-testTypes.py
 # Author: Niall O Flaherty
 
 # In this program, 5 diffeent types of variables are defined. The type() function is used to check that the variables

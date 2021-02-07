@@ -1,4 +1,4 @@
-# div.py
+# Lab3.1.3-div.py
 # Author: Niall O Flaherty
 # This program asks you to input 2 numbers and divides the first number by the 2nd number
 # Outputs the integer result and remainder
